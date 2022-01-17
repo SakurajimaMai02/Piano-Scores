@@ -3,6 +3,6 @@
  
  - You can check the versions in each file.
  
- - If you have any question, take an [issue](https://github.com/SakurajimaMai02/Piano-Scores/issues) here.
+ - If you have any question, take an [**issue**](https://github.com/SakurajimaMai02/Piano-Scores/issues) here.
  ---
 *-To be continue.*
