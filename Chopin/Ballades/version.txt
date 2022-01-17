@@ -1,2 +1,5 @@
 It's a version which is edited by Cortot.
 The language is fr_FR,bcz i cant find en_US version.
+-----------------------
+这是科尔托编辑的版本。
+书内语言为法语。因为我找不到英语版。
