@@ -9,6 +9,6 @@
 <table>
     <tr>
         <td> <div style="text-align: center;font-weight: 800;">Test<br>Test</div> </td>
-        <td><div  style="text-align: center;font-weight: 600;">test2<br>test2</div></td>
+        <td> <div style="text-align: center;font-weight: 600;">test2<br>test2</div></td>
     </tr>
 </table>
