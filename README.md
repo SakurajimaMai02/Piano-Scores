@@ -13,6 +13,7 @@
     <tr>
         <td> <img src="https://raw.githubusercontent.com/SakurajimaMai02/Piano-Scores/main/5721F5CC-907C-4B55-9BC3-3F84E410F3C2.jpeg"></img> </td>
 </table>
+**Click the "Download" button to download.**
 
 ---
 
