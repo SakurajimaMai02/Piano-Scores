@@ -1,4 +1,4 @@
-*[**中文版**](https://github.com/SakurajimaMai02/Piano-Scores/blob/main/Chopin/Etudes/Edit%20by%20Cortot%20-%20Op.25%20(Chopin)/readme-zh_CN.md)*
+# *[**中文版**](https://github.com/SakurajimaMai02/Piano-Scores/blob/main/Chopin/Etudes/Edit%20by%20Cortot%20-%20Op.25%20(Chopin)/readme-zh_CN.md)*
 
 ---
 
