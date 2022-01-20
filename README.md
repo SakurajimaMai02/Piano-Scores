@@ -5,10 +5,12 @@
  
  - If you have any question, take an *[**issue**](https://github.com/SakurajimaMai02/Piano-Scores/issues)* here.
  ---
-*-To be continue.*
+# Download
 <table>
     <tr>
-        <td> <div style="text-align: center;font-weight: 800;">Example<br>Test</div> </td>
-        <td> <div style="text-align: center;font-weight: 600;">test2<br>test2</div></td>
+        <td> <div style="text-align: center;font-weight: 600;">Example<br></div> </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/2020-09-29-friend.gif"></img> </td>
 </table>
+*-To be continue.*
