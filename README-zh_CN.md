@@ -14,7 +14,7 @@
         <td> <img src="https://raw.githubusercontent.com/SakurajimaMai02/Piano-Scores/main/images/1E1E4600-94DA-475B-A928-3ABCB15A2A7B.jpeg"></img> </td>
 </table>
 
-**点击图示中"下载"按钮以下载。** (*必须使用电脑，否则会下载失败。*)
+- **点击图示中"下载"按钮以下载。** (*最好使用电脑，否则可能会下载失败。*)
 
 ---
 
