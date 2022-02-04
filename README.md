@@ -8,7 +8,7 @@
 # Download
 <table>
     <tr>
-        <td> <div style="text-align: center;font-weight: 60;">Example<br></div> </td>
+        <td> <div style="text-align: center;font-weight: 60;">Example<br></div> </td>-
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/SakurajimaMai02/Piano-Scores/main/images/1E1E4600-94DA-475B-A928-3ABCB15A2A7B.jpeg"></img> </td>
